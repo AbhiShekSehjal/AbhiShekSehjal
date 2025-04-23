@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/mr-bean-waiting-still-waiting-gif-13052487" width="200"/>
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/mr-bean-waiting.gif" width="400"/>
 </p>
 
 # 👋 Hey there, I'm Abhi!
