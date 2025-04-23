@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0CfwUuCw1i/giphy.gif" width="400"/>
-</p>
+![Mr. Bean Waiting](https://media.giphy.com/media/abc123xyz456/giphy.gif)
 
 # 👋 Hey there, I'm Abhi!
 
