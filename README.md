@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/abc1234567890abcdef1234567890abcdef/tenor.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26gsspf0CfwUuCw1i/giphy.gif" width="400"/>
 </p>
 
 # 👋 Hey there, I'm Abhi!
