@@ -1,4 +1,4 @@
-![Mr. Bean Waiting](https://media.giphy.com/media/abc123xyz456/giphy.gif)
+![Mr. Bean Waiting](https://tenor.com/view/mr-bean-waiting-still-waiting-gif-13052487)
 
 # 👋 Hey there, I'm Abhi!
 
