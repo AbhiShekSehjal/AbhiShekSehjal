@@ -1,1 +1,10 @@
-HI ,I am web Developer in India and i am able to make a responsive and user-friendly web sites. My aim to gain experience in every fields of life.
+# 👋 Hey there, I'm Abhi!
+
+### 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Other Tools:** GitHub, Adobe XD, Figma (learning), VS Code
+
+- ### 📫 Let's Connect
+- 📧 Email: shek54112@gmail.com
