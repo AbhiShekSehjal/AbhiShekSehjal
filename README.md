@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/3bc9YL28QWi3pYzi1p" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-childrens-miracle-network-hospitals-cmn-3bc9YL28QWi3pYzi1p">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 # 👋 Hey there, I'm Abhi!
 
