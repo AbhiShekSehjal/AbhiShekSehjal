@@ -1,3 +1,5 @@
+![Funny Reaction](https://media.giphy.com/media/funny.gif)
+
 # 👋 Hey there, I'm Abhi!
 
 ### 💻 Tech Stack
