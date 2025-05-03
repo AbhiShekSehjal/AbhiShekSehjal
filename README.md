@@ -4,7 +4,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React.js, EJS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
-- **Other Tools:** GitHub, Adobe XD, Figma (learning), VS Code
+- **Other Tools:** GitHub, Adobe XD, Figma, VS Code
 
 - ### 📫 Let's Connect
 - 📧 Email: shek54112@gmail.com
